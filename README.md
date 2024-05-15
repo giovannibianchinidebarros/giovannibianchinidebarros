@@ -19,13 +19,11 @@ Sou programador/desenvolvedor de software, apaixonado por Python, Automação e 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"/></code>
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
@@ -36,8 +34,9 @@ Sou programador/desenvolvedor de software, apaixonado por Python, Automação e 
 [![GitHub](https://img.shields.io/badge/-giovannibianchinidebarros-black?style=flat-square&logo=GitHub&logoColor=white&link=LINK-DO-SEU-GITHUB)](https://github.com/giovannibianchinidebarros)
 
 ---
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibianchinidebarros&theme=dark&hide_border=false&hide=Jupyter Notebook&include_all_commits=true&count_private=true&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibianchinidebarros&theme=dark&hide_border=false&hide=jupyter%20notebook&include_all_commits=true&count_private=true&layout=compact"
   alt="Github Stats"
 />
 
