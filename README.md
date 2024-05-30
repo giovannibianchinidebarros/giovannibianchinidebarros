@@ -30,7 +30,7 @@ Sou programador/desenvolvedor de software, apaixonado por Python, Automação e 
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Giovanni_Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/giovanni-bianchini-de-barros-4181717b/)
+[![Linkedin](https://img.shields.io/badge/-giovannibianchinidebarros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/giovannibianchinidebarros/)
 [![GitHub](https://img.shields.io/badge/-giovannibianchinidebarros-black?style=flat-square&logo=GitHub&logoColor=white&link=LINK-DO-SEU-GITHUB)](https://github.com/giovannibianchinidebarros)
 
 ---
